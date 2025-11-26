@@ -73,7 +73,7 @@ python DateChangeMain.py
 
 ## 🖼️ Capturas de pantalla
 
-![Interfaz principal](docs/screenshot.png)
+![Interfaz principal](docs/interfaz.png)
 
 ## ⚠️ Advertencias
 
